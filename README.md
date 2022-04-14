@@ -3,7 +3,7 @@
   <img align="left" src="https://www.renpy.org/static/index-logo.png" alt="Ren'Py logo" width="25" align="right">
 </h1>
 <h2> 
-  general scripts for the Ren'py engine 
+  General scripts for the Ren'Py engine 
   <img src="https://img.shields.io/github/license/CodexBookshelf/RenPy?style=flat-square">
 </h2>
 
